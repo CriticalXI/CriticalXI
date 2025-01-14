@@ -1,4 +1,4 @@
-Hi, I'm Critical. I mostly work on FFXI private servers in my free time. 
+Hi, I'm Critical. I occasionally work on FFXI private servers.
 
 I'm not currently associated with any servers, just contributing to the main FFXI repo LandSandBoat.
 
